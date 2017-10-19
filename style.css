@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    font-family: helvetica
+  }
+  
+  img{
+    width: 80%;
+    border-style: solid;
+    border-width: 12px;
+    border-color: blue
+  }
+  
+  h2{
+    color: grey
+  }
+  
+  article{
+    background-color: darkgrey;
+    text-align: center;
+    width: 30%;
+    margin: 9px;
+    float: left;
+  }
